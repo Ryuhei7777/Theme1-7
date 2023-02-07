@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+.header-main{
+  height: 400px;
+  background-image:url("img1/mv.jpg");
+  background-position: bottom;
+  background-size: cover;
+}
+
+.header-text{
+  padding:20px 0 0 20px;
+  font-size: 20px;
+  color:dimgray;
+  font-weight: bold;
+}
+
+.margin-tenp{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.contents-box{
+  width: 840px;
+  margin:30px auto;
+  border-bottom: 3px solid #f5f5f5;
+}
+
+.contents-logo{
+  width: 200px;
+  height: 40px;
+}
+
+.web-site{
+  padding-bottom: 30px;
+}
